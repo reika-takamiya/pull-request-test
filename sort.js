@@ -5,6 +5,7 @@ var sortNumber = function (number){
 	}
 	return a<b ? -1 : 1;
    }};
+
 };
 
 var number = [19,3,81,1,24,21];
